@@ -12,7 +12,7 @@
 <p align="left"> <a href="https://www.linkedin.com/in/asifprofile579/" target="blank"><img src="https://img.shields.io/twitter/follow/Mohammad_Asif?logo=twitter&style=for-the-badge" alt="Mohammad_Asif" /></a> </p>
 <a href="https://www.linkedin.com/in/asifprofile579/"><img src="asif2-1.png" alt="Mohammad Asif's Linkdin Profile" alt="Md Asif's Dev Card"/></a> 
 
-- 🔭 I’m currently working on [E-Commerce-Website-Python-with-Django]([git@github.com:AsifTLT/Simple-E-Commerce-Website-Python-with-Django.git](https://github.com/AsifTLT/Comprehensive-Django-App))
+- 🔭 I’m currently working on [Pioneering the Latest AI Projects]([git@github.com:AsifTLT/Simple-E-Commerce-Website-Python-with-Django.git](https://github.com/AsifTLT/Comprehensive-Django-App))
 
 - 🌱 I’m currently learning **Django, Django Rest Framework**
 
