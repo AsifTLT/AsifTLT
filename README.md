@@ -14,13 +14,13 @@
 
 - 🔭 I’m currently working on [Pioneering the Latest AI Projects]([git@github.com:AsifTLT/Simple-E-Commerce-Website-Python-with-Django.git](https://github.com/AsifTLT/Comprehensive-Django-App))
 
-- 🌱 I’m currently learning **Django, Django Rest Framework**
+- 🌱 I’m currently learning **Reactjs, Nodejs and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AsifTLT](https://github.com/AsifTLT)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/newsletters/7212339950288084992/](https://www.linkedin.com/newsletters/7212339950288084992/)
 
-- 💬 Ask me about **Python, Django, Django Rest Framework, API, MYSQL,SQLITE, HTML,CSS,JS,BS**
+- 💬 Ask me about **Python, Django-5.1, HTML5,CSS3,Javascript,Bootstrap5 Reactjs, Nodejs, Nextjs, API, MYSQL,SQLITE,Mongodb**
 
 - 📫 How to reach me **https://www.linkedin.com/in/asifprofile579/**
 
